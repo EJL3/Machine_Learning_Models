@@ -1,2 +1,2 @@
-# Machine_Learning_Models
-Some advance ML model primary algorithm using different frameworks and activation functions with graphical view using either seaborn or matplotlib.
+# ML for specific uses
+These are some of the ML projects which I did for my internship and for general learning purpose. They can be used for many realistic problems. The coding block includes data mining, data cleansing, filling missing data, dropping diluted data, data modelling, data preprocessing, image classification and overall feature engineering to make the model precise. 
