@@ -1,4 +1,4 @@
-                                                                                                # Importing Cifar data (10k+ imgs) --> Img Classification
+                                     # Importing Cifar data (10k+ imgs) --> Img Classification
                                                                                         
 from keras.datasets import cifar10
 from keras.utils import np_utils
